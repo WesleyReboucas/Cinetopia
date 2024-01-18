@@ -1,6 +1,6 @@
 
 <div >
-  <img src="Vollmed/Assets.xcassets/ChefDeliveryBanner.png" width="1000px">
+  <img src="Cinetopia/Cinetopia/Assets.xcassets/CinetopiaBanner.png" width="1000px">
 </div>
 
 <p align="center">
@@ -30,11 +30,11 @@ com a intensão de criar um app IOS de uma biblioteca de filmes.
 Assuntos abordados:
 
 - [x] View code VS storyboard;
-- [ ] Configuração de projetos iOS de forma programática;
-- [ ] Manipulação e criação de interfaces eficientes;
-- [ ] Constraints adaptativas e dinâmicas;
-- [ ] Navegações entre telas;
-- [ ] Componente StackView;
+- [x] Configuração de projetos iOS de forma programática;
+- [x] Manipulação e criação de interfaces eficientes;
+- [x] Constraints adaptativas e dinâmicas;
+- [x] Navegações entre telas;
+- [x] Componente StackView;
 - [ ] Arquitetura e funcionamento de tabelas dentro do ambiente iOS;
 - [ ] Células customizadas para tabelas;
 - [ ] Modelagem de dados para alimentar e estruturar o conteúdo nas tabelas;
@@ -70,12 +70,10 @@ git clone https://github.com/WesleyReboucas/Cinetopia.git
 
 ## :scroll: Certificados 
 
-<a href="https://cursos.alura.com.br/certificate/74cd8d35-6dcd-480d-a41a-357c7b4965cb?lang=pt_BR">
-	<img src="https://img.shields.io/static/v1?label=Alura&message=2023&color=199ffc&style=flat"/>
+<a href="https://cursos.alura.com.br/certificate/59be67de-3338-4cf6-90a8-593c88986522?lang=pt_BR">
+	<img src="https://img.shields.io/static/v1?label=IOS COM UIKIT: FUNDAMENTOS DE VIEW CODE&message=2024&color=199ffc&style=flat"/>
 </a>
-<a href="https://cursos.alura.com.br/certificate/1fd5011e-9d14-48e1-803d-570e9078535e?lang=pt_BR">
-	<img src="https://img.shields.io/static/v1?label=Alura&message=2023&color=199ffc&style=flat"/>
-</a>
+
 
 ## :page_with_curl: Licencia 
 <div>
